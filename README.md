@@ -1,2 +1,12 @@
-# my-new-deployment
-buid and deploy a web
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Deployment</title>
+</head>
+<body style="background:#111c2e; color:white;
+  font-family:Arial; text-align:center;">
+  <h1>🚀 My First Deployment</h1>
+  <p>Built by: <b>YOUR NAME</b></p>
+  <p>Ace Global Academy · DevOps Intro</p>
+</body>
+</html>
